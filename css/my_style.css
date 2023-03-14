@@ -9,12 +9,12 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
-a {
+i {
     color: #ffc107;
     text-decoration: none;
 }
 
-a:hover{
+i:hover{
     background-color: aquamarine;
     color: #000000;
 }
