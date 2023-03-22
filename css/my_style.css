@@ -9,7 +9,13 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
-a{
+:root{
+    --bs-primary:#ffc107;
+    --bs-primary-rgb:255, 193, 7;
+    --bs-secondary:#000000;
+    --bs-secondary-rgb:0, 0, 0;
+}
+    a{
     color: #ffc107;
     text-decoration: none;
 }
